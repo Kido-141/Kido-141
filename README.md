@@ -1,60 +1,86 @@
 <div align="center">
 
-<!-- ===================== HEADER ===================== -->
+<!-- =========================
+     REDLINE HEADER
+========================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0b0b0b&height=220&section=header&text=KIDO-141&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=DEVELOPER%20%7C%20CREATOR%20%7C%20PROBLEM%20SOLVER&descSize=17&descAlignY=58&descColor=ff2020" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=18&section=header&text=&fontColor=ffffff&fontSize=1" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=700&color=FF2020&center=true&vCenter=true&width=600&lines=BUILDING+IDEAS+INTO+REAL+PROJECTS;CODE.+CREATE.+SOLVE.;ALWAYS+LEARNING.+ALWAYS+BUILDING." />
+<table width="92%" border="0">
+<tr>
+<td width="52%" align="left">
+
+```text
+┌──────────────────────────────────────┐
+│  KIDO-141                            │
+│                                      │
+│  DEVELOPER                           │
+│  CREATOR                             │
+│  PROBLEM SOLVER                      │
+│                                      │
+│  > ALWAYS LEARNING_                  │
+└──────────────────────────────────────┘
+```
+
+</td>
+
+<td width="48%" align="right">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2200&pause=700&color=FF2020&center=true&vCenter=true&width=390&lines=BUILDING+IDEAS+INTO+PROJECTS;ALWAYS+LEARNING.+ALWAYS+BUILDING.;CODE+%7C+CREATE+%7C+SOLVE;SYSTEM+ONLINE..." />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/STATUS-BUILDING-ff2020?style=for-the-badge&labelColor=080808"/>
-<img src="https://img.shields.io/badge/FOCUS-SOFTWARE-ff2020?style=for-the-badge&labelColor=080808"/>
-<img src="https://img.shields.io/badge/MODE-CREATE-ff2020?style=for-the-badge&labelColor=080808"/>
+<img src="https://img.shields.io/badge/%E2%97%8F_STATUS-BUILDING-ff2020?style=for-the-badge&labelColor=080808"/>
+<img src="https://img.shields.io/badge/%E2%97%8F_FOCUS-SOFTWARE-ff2020?style=for-the-badge&labelColor=080808"/>
+<img src="https://img.shields.io/badge/%E2%97%8F_MODE-CREATE-ff2020?style=for-the-badge&labelColor=080808"/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff2020&height=2&section=header&text=&fontColor=ffffff&fontSize=1" width="92%"/>
 
 </div>
 
 ---
 
-<!-- ===================== RED LINE ===================== -->
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ff2020&height=3&width=900"/>
-</p>
-
-<!-- ===================== ABOUT ===================== -->
-
-## <span style="color:#ff2020;">▌ ABOUT ME</span>
+## <span style="color:#ff2020;">01 / ABOUT ME</span>
 
 ```bash
 ┌──[ KIDO-141@github ]
 └─$ whoami
 
-Developer who enjoys building useful,
-creative and reliable software.
+I am a developer who enjoys building useful,
+creative, and reliable software.
 
 Currently learning, experimenting,
-and turning ideas into real projects.
+and turning ideas into projects.
 ```
 
-### `CURRENTLY`
+<div align="center">
 
-> 🔴 Building meaningful projects
-> 🔴 Learning new technologies
-> 🔴 Exploring software, design & automation
-> 🔴 Open to collaboration and new ideas
+| 🔴 | CURRENTLY |
+|:---:|:---|
+| `01` | Focused on building meaningful projects |
+| `02` | Always learning new technologies |
+| `03` | Interested in software, design, and automation |
+| `04` | Open to collaboration and new ideas |
+
+</div>
+
+<br>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=222222&height=2&section=header&text=&fontColor=ffffff&fontSize=1" width="82%"/>
+</p>
 
 ---
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=2&width=700"/>
-</p>
-
-<!-- ===================== TECH STACK ===================== -->
-
-## <span style="color:#ff2020;">▌ TECH STACK</span>
+## <span style="color:#ff2020;">02 / TECH STACK</span>
 
 <div align="center">
 
@@ -64,55 +90,57 @@ and turning ideas into real projects.
 
 <br><br>
 
-### `TOOLS & PLATFORMS`
+### `TOOLS`
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
+<br><br>
+
+![HTML5](https://img.shields.io/badge/HTML5-080808?style=for-the-badge&logo=html5&logoColor=ff2020)
+![CSS3](https://img.shields.io/badge/CSS3-080808?style=for-the-badge&logo=css3&logoColor=ff2020)
+![JavaScript](https://img.shields.io/badge/JavaScript-080808?style=for-the-badge&logo=javascript&logoColor=ff2020)
+![Python](https://img.shields.io/badge/Python-080808?style=for-the-badge&logo=python&logoColor=ff2020)
+![Git](https://img.shields.io/badge/Git-080808?style=for-the-badge&logo=git&logoColor=ff2020)
+![GitHub](https://img.shields.io/badge/GitHub-080808?style=for-the-badge&logo=github&logoColor=ffffff)
+
 </div>
+
+---
+
+## <span style="color:#ff2020;">03 / FEATURED PROJECTS</span>
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                     PROJECT TERMINAL                        ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  [01]  PROJECT ONE                                           ║
+║        └─ A project that solves a real problem               ║
+║                                                              ║
+║  [02]  PROJECT TWO                                           ║
+║        └─ An experiment with modern technology               ║
+║                                                              ║
+║  [03]  PROJECT THREE                                         ║
+║        └─ A creative project currently in development        ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+> Replace these examples with your actual repositories.
 
 <br>
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-080808?style=for-the-badge\&logo=html5\&logoColor=ff2020)
-![CSS3](https://img.shields.io/badge/CSS3-080808?style=for-the-badge\&logo=css3\&logoColor=ff2020)
-![JavaScript](https://img.shields.io/badge/JavaScript-080808?style=for-the-badge\&logo=javascript\&logoColor=ff2020)
-![Python](https://img.shields.io/badge/Python-080808?style=for-the-badge\&logo=python\&logoColor=ff2020)
-![Git](https://img.shields.io/badge/Git-080808?style=for-the-badge\&logo=git\&logoColor=ff2020)
-![GitHub](https://img.shields.io/badge/GitHub-080808?style=for-the-badge\&logo=github\&logoColor=ffffff)
+<img src="https://img.shields.io/badge/01-REAL%20PROBLEM-ff2020?style=for-the-badge&labelColor=080808"/>
+<img src="https://img.shields.io/badge/02-EXPERIMENT-ff2020?style=for-the-badge&labelColor=080808"/>
+<img src="https://img.shields.io/badge/03-IN%20DEVELOPMENT-ff2020?style=for-the-badge&labelColor=080808"/>
 
 </div>
 
 ---
 
-<!-- ===================== PROJECTS ===================== -->
-
-## <span style="color:#ff2020;">▌ FEATURED PROJECTS</span>
-
-```text
-╔════════════════════════════════════════════════════════════╗
-║                    PROJECT TERMINAL                       ║
-╠════════════════════════════════════════════════════════════╣
-║                                                            ║
-║  [01]  PROJECT ONE                                         ║
-║        └─ A project that solves a real problem             ║
-║                                                            ║
-║  [02]  PROJECT TWO                                         ║
-║        └─ An experiment with modern technology             ║
-║                                                            ║
-║  [03]  PROJECT THREE                                       ║
-║        └─ A creative project currently in development      ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
-
-> **Replace the projects above with your actual repositories.**
-
----
-
-<!-- ===================== STATS ===================== -->
-
-## <span style="color:#ff2020;">▌ GITHUB ACTIVITY</span>
+## <span style="color:#ff2020;">04 / GITHUB ACTIVITY</span>
 
 <div align="center">
 
@@ -132,29 +160,33 @@ and turning ideas into real projects.
 
 ---
 
-<!-- ===================== RED RUNNING LINE ===================== -->
+<!-- =========================
+     RED RUNNING LINE
+========================= -->
 
-<p align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ff2020&height=2&width=950"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=1800&pause=300&color=FF2020&center=true&vCenter=true&width=750&lines=%3E_%20INITIALIZING...;%3E_%20BUILDING...;%3E_%20LEARNING...;%3E_%20DEPLOYING...;%3E_%20REPEAT." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=1600&pause=250&color=FF2020&center=true&vCenter=true&width=850&lines=%3E_%20INITIALIZING...;%3E_%20LOADING%20PROJECTS...;%3E_%20BUILDING...;%3E_%20LEARNING...;%3E_%20DEPLOYING...;%3E_%20SYSTEM%20READY." />
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ff2020&height=2&width=950"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff2020&height=2&section=header&text=&fontColor=ffffff&fontSize=1" width="88%"/>
 
-</p>
+</div>
 
 ---
 
-<!-- ===================== CONNECT ===================== -->
-
-## <span style="color:#ff2020;">▌ CONNECT</span>
+## <span style="color:#ff2020;">05 / CONNECT</span>
 
 <div align="center">
+
+```text
+┌──────────────────────────────────────────┐
+│                                          │
+│             FIND ME ON GITHUB            │
+│                                          │
+└──────────────────────────────────────────┘
+```
 
 <a href="https://github.com/Kido-141">
 
@@ -166,21 +198,14 @@ and turning ideas into real projects.
 
 ---
 
-<!-- ===================== FOOTER ===================== -->
-
 <div align="center">
 
 <br>
 
-```text
-╭────────────────────────────────────────────╮
-│                                            │
-│       KEEP BUILDING. KEEP LEARNING.       │
-│              KEEP GOING.                  │
-│                                            │
-╰────────────────────────────────────────────╯
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2800&pause=900&color=FF2020&center=true&vCenter=true&width=700&lines=KEEP+BUILDING.;KEEP+LEARNING.;KEEP+GOING." />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0b0b0b&height=120&section=footer&descColor=ff2020"/>
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0a&height=110&section=footer" width="100%"/>
 
 </div>
