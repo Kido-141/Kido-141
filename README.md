@@ -1,48 +1,6 @@
 <div align="center">
 
-<!-- =========================
-     REDLINE HEADER
-========================= -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=18&section=header&text=&fontColor=ffffff&fontSize=1" width="100%"/>
-
-<br>
-
-<table width="92%" border="0">
-<tr>
-<td width="52%" align="left">
-
-```text
-┌──────────────────────────────────────┐
-│  KIDO-141                            │
-│                                      │
-│  DEVELOPER                           │
-│  CREATOR                             │
-│  PROBLEM SOLVER                      │
-│                                      │
-│  > ALWAYS LEARNING_                  │
-└──────────────────────────────────────┘
-```
-
-</td>
-
-<td width="48%" align="right">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2200&pause=700&color=FF2020&center=true&vCenter=true&width=390&lines=BUILDING+IDEAS+INTO+PROJECTS;ALWAYS+LEARNING.+ALWAYS+BUILDING.;CODE+%7C+CREATE+%7C+SOLVE;SYSTEM+ONLINE..." />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/%E2%97%8F_STATUS-BUILDING-ff2020?style=for-the-badge&labelColor=080808"/>
-<img src="https://img.shields.io/badge/%E2%97%8F_FOCUS-SOFTWARE-ff2020?style=for-the-badge&labelColor=080808"/>
-<img src="https://img.shields.io/badge/%E2%97%8F_MODE-CREATE-ff2020?style=for-the-badge&labelColor=080808"/>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ff2020&height=2&section=header&text=&fontColor=ffffff&fontSize=1" width="92%"/>
+<img src="./assets/kido_dynamic_header.svg" width="100%"/>
 
 </div>
 
