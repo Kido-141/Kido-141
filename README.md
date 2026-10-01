@@ -31,23 +31,6 @@ and turning ideas into projects.
 ```
 
 <br>
-
-<div align="center">
-
-| 🔴 | <span style="color:#ffffff;">CURRENTLY</span> |
-|:---:|:---|
-| <span style="color:#ff2020;">01</span> | Focused on building meaningful projects |
-| <span style="color:#ff2020;">02</span> | Always learning new technologies |
-| <span style="color:#ff2020;">03</span> | Interested in software, design, and automation |
-| <span style="color:#ff2020;">04</span> | Open to collaboration and new ideas |
-
-</div>
-
-</td>
-
-<td width="42%" align="center" valign="middle">
-
-<!-- Replace ./assets/penguin.gif with your preferred GIF if needed -->
 <img src="./assets/penguin.gif" width="280"/>
 
 <br><br>
