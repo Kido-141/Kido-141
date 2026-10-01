@@ -1,9 +1,5 @@
 <div align="center">
 
-# Welcome to My GitHub
-
-### `</>`
-
 <img src="./header.png" alt="GitHub Profile Header" width="100%" />
 
 </div>
@@ -40,7 +36,7 @@ I'm currently exploring **software engineering, competitive programming, systems
 
 <td width="30%" align="center" valign="middle">
 
-<img src="./penguin.gif" alt="Animated Penguin" width="150" />
+<img src="./penguin.svg" alt="Animated Penguin" width="180" />
 
 </td>
   </tr>
