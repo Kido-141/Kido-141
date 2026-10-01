@@ -1,5 +1,7 @@
 <div align="center">
 
+---
+
 <img src="./header.png" alt="GitHub Profile Header" width="100%" />
 
 </div>
