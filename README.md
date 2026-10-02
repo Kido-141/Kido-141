@@ -1,6 +1,6 @@
 <div align="center">
 
----
+----
 
 <img src="./header.png" alt="GitHub Profile Header" width="100%" />
 
@@ -14,7 +14,7 @@
 
 </div>
 
----
+----
 
 ## 👤 About me
 
@@ -22,7 +22,7 @@
   <tr>
     <td width="70%" valign="top">
 
-Hello there! I'm **Your Name**, a **Systems Engineer / Computer Science student**.  
+Hello there! I'm a Computer Science student.  
 I enjoy learning new technologies, solving problems, and building useful projects.
 
 I'm currently exploring **software engineering, competitive programming, systems, and open-source development**.
@@ -44,4 +44,4 @@ I'm currently exploring **software engineering, competitive programming, systems
   </tr>
 </table>
 
----
+----
